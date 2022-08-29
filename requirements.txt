@@ -1,3 +1,4 @@
+python-dev-tools
 Cython
 wheel
 pandas==0.24.0
