@@ -1,3 +1,4 @@
+Cython
 wheel
 pandas==0.24.0
 google.colab
