@@ -1,2 +1,4 @@
-pandas==1.2.4
+setuptools
+wheel
+pandas==0.24.0
 google.colab
