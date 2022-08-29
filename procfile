@@ -1,0 +1,2 @@
+web: python Testmod_project.py
+worker: python Testmod_project.py 
